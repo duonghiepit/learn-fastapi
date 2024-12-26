@@ -27,7 +27,7 @@
 
 ## Bước 2: Cài đặt các thư viện cần thiết
 ```bash
-pip install fastapi uvicorn psycopg2-binary sqlalchemy
+pip install -r requirements.txt
 ```
 
 ---
